@@ -1,0 +1,371 @@
+Server-- 21:26:48.990517 server.go:52: recv 1
+Server-- 21:26:48.990683 server.go:88: [Join]
+Server-- 21:26:48.990694 server.go:122: miner 1 join.
+Server-- 21:26:51.182649 server.go:52: recv 2
+Server-- 21:26:51.182686 server.go:88: [Join]
+Server-- 21:26:51.182695 server.go:122: miner 2 join.
+Server-- 21:26:54.655304 server.go:52: recv 3
+Server-- 21:26:54.655333 server.go:88: [Join]
+Server-- 21:26:54.655343 server.go:122: miner 3 join.
+Server-- 21:26:56.186647 server.go:52: recv 4
+Server-- 21:26:56.186675 server.go:88: [Join]
+Server-- 21:26:56.186685 server.go:122: miner 4 join.
+Server-- 21:26:58.827609 server.go:52: recv 5
+Server-- 21:26:58.827655 server.go:88: [Request bradfi3422222tz 0 99999999]
+Server-- 21:26:58.827678 server.go:95: client 5 join.
+Server-- 21:26:58.827686 server.go:96: tasks len 4.
+Server-- 21:26:58.827695 server.go:141: send msg: [Request bradfi3422222tz 0 24999999]
+Server-- 21:26:58.827728 server.go:141: send msg: [Request bradfi3422222tz 25000000 49999999]
+Server-- 21:26:58.827749 server.go:141: send msg: [Request bradfi3422222tz 50000000 74999999]
+Server-- 21:26:58.827795 server.go:141: send msg: [Request bradfi3422222tz 75000000 99999999]
+Server-- 21:27:00.453677 server.go:52: recv 6
+Server-- 21:27:00.453712 server.go:88: [Request bradfi3422222tz 0 99999]
+Server-- 21:27:00.453724 server.go:95: client 6 join.
+Server-- 21:27:00.453732 server.go:96: tasks len 4.
+Server-- 21:27:02.584619 server.go:52: recv 7
+Server-- 21:27:02.584666 server.go:88: [Request bradfi3422222tz 0 99999]
+Server-- 21:27:02.584678 server.go:95: client 7 join.
+Server-- 21:27:02.584687 server.go:96: tasks len 4.
+Server-- 21:27:04.474997 server.go:52: recv 8
+Server-- 21:27:04.475034 server.go:88: [Request bradfi3422222tz 0 999999]
+Server-- 21:27:04.475050 server.go:95: client 8 join.
+Server-- 21:27:04.475058 server.go:96: tasks len 4.
+Server-- 21:27:06.007510 server.go:52: recv 9
+Server-- 21:27:06.007545 server.go:88: [Request bradfi3422222tz 0 99999999]
+Server-- 21:27:06.007557 server.go:95: client 9 join.
+Server-- 21:27:06.007565 server.go:96: tasks len 4.
+Server-- 21:27:18.830726 server.go:49: Connection lost
+Server-- 21:27:18.830752 server.go:52: recv 5
+Server-- 21:27:18.830763 server.go:67: client 5 quit.
+Server-- 21:27:22.589729 server.go:49: Connection lost
+Server-- 21:27:22.589755 server.go:52: recv 7
+Server-- 21:27:22.589767 server.go:67: client 7 quit.
+Server-- 21:27:22.751617 server.go:52: recv 3
+Server-- 21:27:22.751655 server.go:88: [Result 7844102671 5830848]
+Server-- 21:27:22.751665 server.go:141: send msg: [Request bradfi3422222tz 0 24999]
+Server-- 21:27:22.767280 server.go:52: recv 3
+Server-- 21:27:22.767311 server.go:88: [Result 159708293954743 24513]
+Server-- 21:27:22.767322 server.go:141: send msg: [Request bradfi3422222tz 25000 49999]
+Server-- 21:27:22.784415 server.go:52: recv 3
+Server-- 21:27:22.784444 server.go:88: [Result 713368995201015 39023]
+Server-- 21:27:22.784453 server.go:141: send msg: [Request bradfi3422222tz 50000 74999]
+Server-- 21:27:22.800415 server.go:52: recv 3
+Server-- 21:27:22.800449 server.go:88: [Result 328973999245657 53246]
+Server-- 21:27:22.800458 server.go:141: send msg: [Request bradfi3422222tz 75000 99999]
+Server-- 21:27:22.816099 server.go:52: recv 3
+Server-- 21:27:22.816128 server.go:88: [Result 632268948523909 76299]
+Server-- 21:27:22.816137 server.go:141: send msg: [Result 159708293954743 24513]
+Server-- 21:27:22.816179 server.go:49: Client close
+Server-- 21:27:22.816186 server.go:52: recv 6
+Server-- 21:27:22.816189 server.go:141: send msg: [Request bradfi3422222tz 0 24999]
+Server-- 21:27:22.824734 server.go:52: recv 1
+Server-- 21:27:22.824766 server.go:88: [Result 242473597196 46160575]
+Server-- 21:27:22.824778 server.go:141: send msg: [Request bradfi3422222tz 25000 49999]
+Server-- 21:27:22.833445 server.go:52: recv 3
+Server-- 21:27:22.833474 server.go:88: [Result 159708293954743 24513]
+Server-- 21:27:22.833486 server.go:141: send msg: [Request bradfi3422222tz 50000 74999]
+Server-- 21:27:22.842244 server.go:52: recv 1
+Server-- 21:27:22.842280 server.go:88: [Result 713368995201015 39023]
+Server-- 21:27:22.842293 server.go:141: send msg: [Request bradfi3422222tz 75000 99999]
+Server-- 21:27:22.849435 server.go:52: recv 3
+Server-- 21:27:22.849459 server.go:88: [Result 328973999245657 53246]
+Server-- 21:27:22.849469 server.go:141: send msg: [Request bradfi3422222tz 0 249999]
+Server-- 21:27:22.859504 server.go:52: recv 1
+Server-- 21:27:22.859536 server.go:88: [Result 632268948523909 76299]
+Server-- 21:27:22.859546 server.go:141: send msg: [Request bradfi3422222tz 250000 499999]
+Server-- 21:27:23.013949 server.go:52: recv 3
+Server-- 21:27:23.013988 server.go:88: [Result 52236628992697 196447]
+Server-- 21:27:23.014000 server.go:141: send msg: [Request bradfi3422222tz 500000 749999]
+Server-- 21:27:23.027394 server.go:52: recv 1
+Server-- 21:27:23.027426 server.go:88: [Result 76042952827705 483831]
+Server-- 21:27:23.027438 server.go:141: send msg: [Request bradfi3422222tz 750000 999999]
+Server-- 21:27:23.175073 server.go:52: recv 3
+Server-- 21:27:23.175112 server.go:88: [Result 126426384688340 625335]
+Server-- 21:27:23.175125 server.go:141: send msg: [Request bradfi3422222tz 0 24999999]
+Server-- 21:27:23.185895 server.go:49: Connection lost
+Server-- 21:27:23.185912 server.go:52: recv 2
+Server-- 21:27:23.185920 server.go:78: miner 2 quit.
+Server-- 21:27:23.189929 server.go:52: recv 1
+Server-- 21:27:23.189966 server.go:88: [Result 56181256548463 798678]
+Server-- 21:27:23.189976 server.go:141: send msg: [Result 52236628992697 196447]
+Server-- 21:27:23.190023 server.go:49: Client close
+Server-- 21:27:23.190032 server.go:52: recv 8
+Server-- 21:27:23.190031 server.go:141: send msg: [Request bradfi3422222tz 25000000 49999999]
+Server-- 21:27:24.188523 server.go:49: Connection lost
+Server-- 21:27:24.188545 server.go:52: recv 4
+Server-- 21:27:24.188555 server.go:78: miner 4 quit.
+Server-- 21:27:39.432020 server.go:52: recv 3
+Server-- 21:27:39.432064 server.go:88: [Result 7844102671 5830848]
+Server-- 21:27:39.432074 server.go:141: send msg: [Request bradfi3422222tz 50000000 74999999]
+Server-- 21:27:39.452333 server.go:52: recv 1
+Server-- 21:27:39.452364 server.go:88: [Result 242473597196 46160575]
+Server-- 21:27:39.452376 server.go:141: send msg: [Request bradfi3422222tz 75000000 99999999]
+Server-- 21:27:55.580161 server.go:52: recv 3
+Server-- 21:27:55.580200 server.go:88: [Result 2591284781372 57495418]
+Server-- 21:27:55.607223 server.go:52: recv 1
+Server-- 21:27:55.607250 server.go:88: [Result 92916603431 96289472]
+Server-- 21:27:55.607262 server.go:141: send msg: [Result 7844102671 5830848]
+Server-- 21:27:55.607329 server.go:49: Client close
+Server-- 21:27:55.607343 server.go:52: recv 9
+Server-- 21:29:16.118544 server.go:52: recv 10
+Server-- 21:29:16.118594 server.go:88: [Join]
+Server-- 21:29:16.118604 server.go:122: miner 10 join.
+Server-- 21:29:17.800793 server.go:52: recv 11
+Server-- 21:29:17.800825 server.go:88: [Join]
+Server-- 21:29:17.800837 server.go:122: miner 11 join.
+Server-- 21:29:19.869111 server.go:52: recv 12
+Server-- 21:29:19.869145 server.go:88: [Request bradfi3422222tz 0 99999999]
+Server-- 21:29:19.869159 server.go:95: client 12 join.
+Server-- 21:29:19.869165 server.go:96: tasks len 4.
+Server-- 21:29:19.869178 server.go:141: send msg: [Request bradfi3422222tz 0 24999999]
+Server-- 21:29:19.869194 server.go:141: send msg: [Request bradfi3422222tz 25000000 49999999]
+Server-- 21:29:19.869221 server.go:141: send msg: [Request bradfi3422222tz 50000000 74999999]
+Server-- 21:29:19.869237 server.go:141: send msg: [Request bradfi3422222tz 75000000 99999999]
+Server-- 21:29:21.675527 server.go:52: recv 13
+Server-- 21:29:21.675562 server.go:88: [Request bradfi3422222tz 0 99999]
+Server-- 21:29:21.675573 server.go:95: client 13 join.
+Server-- 21:29:21.675581 server.go:96: tasks len 4.
+Server-- 21:29:23.576063 server.go:52: recv 14
+Server-- 21:29:23.576102 server.go:88: [Request bradfi3422222tz 0 999999]
+Server-- 21:29:23.576114 server.go:95: client 14 join.
+Server-- 21:29:23.576122 server.go:96: tasks len 4.
+Server-- 21:29:25.412982 server.go:52: recv 15
+Server-- 21:29:25.413017 server.go:88: [Request bradfi3422222tz 0 99999]
+Server-- 21:29:25.413031 server.go:95: client 15 join.
+Server-- 21:29:25.413039 server.go:96: tasks len 4.
+Server-- 21:29:37.870822 server.go:49: Connection lost
+Server-- 21:29:37.870845 server.go:52: recv 12
+Server-- 21:29:37.870854 server.go:67: client 12 quit.
+Server-- 21:29:39.581086 server.go:49: Connection lost
+Server-- 21:29:39.581111 server.go:52: recv 14
+Server-- 21:29:39.581122 server.go:67: client 14 quit.
+Server-- 21:29:40.994075 server.go:49: Connection lost
+Server-- 21:29:40.994097 server.go:52: recv 1
+Server-- 21:29:40.994106 server.go:78: miner 1 quit.
+Server-- 21:29:42.118833 server.go:49: Connection lost
+Server-- 21:29:42.118856 server.go:52: recv 10
+Server-- 21:29:42.118868 server.go:78: miner 10 quit.
+Server-- 21:29:42.613974 server.go:52: recv 3
+Server-- 21:29:42.614015 server.go:88: [Result 2591284781372 57495418]
+Server-- 21:29:42.614025 server.go:141: send msg: [Request bradfi3422222tz 0 24999]
+Server-- 21:29:42.631306 server.go:52: recv 3
+Server-- 21:29:42.631339 server.go:88: [Result 159708293954743 24513]
+Server-- 21:29:42.631351 server.go:141: send msg: [Request bradfi3422222tz 25000 49999]
+Server-- 21:29:42.647878 server.go:52: recv 3
+Server-- 21:29:42.647907 server.go:88: [Result 713368995201015 39023]
+Server-- 21:29:42.647918 server.go:141: send msg: [Request bradfi3422222tz 50000 74999]
+Server-- 21:29:42.663885 server.go:52: recv 3
+Server-- 21:29:42.663924 server.go:88: [Result 328973999245657 53246]
+Server-- 21:29:42.663938 server.go:141: send msg: [Request bradfi3422222tz 75000 99999]
+Server-- 21:29:42.679772 server.go:52: recv 3
+Server-- 21:29:42.679803 server.go:88: [Result 632268948523909 76299]
+Server-- 21:29:42.679812 server.go:141: send msg: [Result 159708293954743 24513]
+Server-- 21:29:42.679862 server.go:49: Client close
+Server-- 21:29:42.679871 server.go:52: recv 13
+Server-- 21:29:42.679871 server.go:141: send msg: [Request bradfi3422222tz 0 249999]
+Server-- 21:29:42.802030 server.go:52: recv 11
+Server-- 21:29:42.802069 server.go:88: [Result 242473597196 46160575]
+Server-- 21:29:42.802080 server.go:141: send msg: [Request bradfi3422222tz 250000 499999]
+Server-- 21:29:42.851157 server.go:52: recv 3
+Server-- 21:29:42.851191 server.go:88: [Result 52236628992697 196447]
+Server-- 21:29:42.851203 server.go:141: send msg: [Request bradfi3422222tz 500000 749999]
+Server-- 21:29:42.962177 server.go:52: recv 11
+Server-- 21:29:42.962229 server.go:88: [Result 76042952827705 483831]
+Server-- 21:29:42.962243 server.go:141: send msg: [Request bradfi3422222tz 750000 999999]
+Server-- 21:29:43.010775 server.go:52: recv 3
+Server-- 21:29:43.010816 server.go:88: [Result 126426384688340 625335]
+Server-- 21:29:43.010829 server.go:141: send msg: [Request bradfi3422222tz 0 24999]
+Server-- 21:29:43.027247 server.go:52: recv 3
+Server-- 21:29:43.027287 server.go:88: [Result 159708293954743 24513]
+Server-- 21:29:43.027299 server.go:141: send msg: [Request bradfi3422222tz 25000 49999]
+Server-- 21:29:43.044206 server.go:52: recv 3
+Server-- 21:29:43.044240 server.go:88: [Result 713368995201015 39023]
+Server-- 21:29:43.044250 server.go:141: send msg: [Request bradfi3422222tz 50000 74999]
+Server-- 21:29:43.060232 server.go:52: recv 3
+Server-- 21:29:43.060269 server.go:88: [Result 328973999245657 53246]
+Server-- 21:29:43.060279 server.go:141: send msg: [Request bradfi3422222tz 75000 99999]
+Server-- 21:29:43.078024 server.go:52: recv 3
+Server-- 21:29:43.078057 server.go:88: [Result 632268948523909 76299]
+Server-- 21:29:43.078068 server.go:141: send msg: [Result 159708293954743 24513]
+Server-- 21:29:43.078111 server.go:49: Client close
+Server-- 21:29:43.078119 server.go:52: recv 15
+Server-- 21:29:43.131209 server.go:52: recv 11
+Server-- 21:29:43.131247 server.go:88: [Result 56181256548463 798678]
+9183 server.go:52: recv 11
+Server-- 21:16:11.079234 server.go:88: [Result 7844102671 5830848]
+Server-- 21:16:11.079249 server.go:141: send msg: [Request bradfi3422222tz 50000000 74999999]
+Server-- 21:16:18.706886 server.go:52: recv 1
+Server-- 21:16:18.706926 server.go:88: [Result 242473597196 46160575]
+Server-- 21:16:18.706936 server.go:141: send msg: [Request bradfi3422222tz 75000000 99999999]
+Server-- 21:16:27.233123 server.go:52: recv 11
+Server-- 21:16:27.233164 server.go:88: [Result 2591284781372 57495418]
+Server-- 21:16:34.900005 server.go:52: recv 1
+Server-- 21:16:34.900042 server.go:88: [Result 92916603431 96289472]
+Server-- 21:16:34.900056 server.go:141: send msg: [Result 7844102671 5830848]
+Server-- 21:16:34.900101 server.go:49: Client close
+Server-- 21:16:34.900109 server.go:52: recv 16
+recv 13
+Server-- 21:05:47.077275 server.go:141: send msg: [Request bradfi3422222tz 500000 749999]
+Server-- 21:05:47.224959 server.go:52: recv 1
+Server-- 21:05:47.225010 server.go:88: [Result 76042952827705 483831]
+Server-- 21:05:47.225023 server.go:141: send msg: [Request bradfi3422222tz 750000 999999]
+Server-- 21:05:47.246065 server.go:52: recv 3
+Server-- 21:05:47.246108 server.go:88: [Result 126426384688340 625335]
+Server-- 21:05:47.246121 server.go:141: send msg: [Request bradfi3422222tz 0 24999]
+Server-- 21:05:47.261913 server.go:52: recv 3
+Server-- 21:05:47.261943 server.go:88: [Result 159708293954743 24513]
+Server-- 21:05:47.261954 server.go:141: send msg: [Request bradfi3422222tz 25000 49999]
+Server-- 21:05:47.278053 server.go:52: recv 3
+Server-- 21:05:47.278079 server.go:88: [Result 713368995201015 39023]
+Server-- 21:05:47.278090 server.go:141: send msg: [Request bradfi3422222tz 50000 74999]
+Server-- 21:05:47.293873 server.go:52: recv 3
+Server-- 21:05:47.293910 server.go:88: [Result 328973999245657 53246]
+Server-- 21:05:47.293923 server.go:141: send msg: [Request bradfi3422222tz 75000 99999]
+Server-- 21:05:47.309977 server.go:52: recv 3
+Server-- 21:05:47.310016 server.go:88: [Result 632268948523909 76299]
+Server-- 21:05:47.310025 server.go:141: send msg: [Result 159708293954743 24513]
+Server-- 21:05:47.310078 server.go:49: Client close
+Server-- 21:05:47.310083 server.go:141: send msg: [Request bradfi3422222tz 0 24999]
+Server-- 21:05:47.310089 server.go:52: recv 15
+Server-- 21:05:47.327161 server.go:52: recv 3
+Server-- 21:05:47.327199 server.go:88: [Result 159708293954743 24513]
+Server-- 21:05:47.327213 server.go:141: send msg: [Request bradfi3422222tz 25000 49999]
+Server-- 21:05:47.343565 server.go:52: recv 3
+Server-- 21:05:47.343597 server.go:88: [Result 713368995201015 39023]
+Server-- 21:05:47.343607 server.go:141: send msg: [Request bradfi3422222tz 50000 74999]
+Server-- 21:05:47.362940 server.go:52: recv 3
+Server-- 21:05:47.362972 server.go:88: [Result 328973999245657 53246]
+Server-- 21:05:47.362984 server.go:141: send msg: [Request bradfi3422222tz 75000 99999]
+Server-- 21:05:47.379984 server.go:52: recv 3
+Server-- 21:05:47.380019 server.go:88: [Result 632268948523909 76299]
+Server-- 21:05:47.380028 server.go:141: send msg: [Result 159708293954743 24513]
+Server-- 21:05:47.380072 server.go:49: Client close
+Server-- 21:05:47.380081 server.go:52: recv 16
+Server-- 21:05:47.380082 server.go:141: send msg: [Request bradfi3422222tz 25000000 49999999]
+Server-- 21:05:47.388516 server.go:52: recv 1
+Server-- 21:05:47.388545 server.go:88: [Result 56181256548463 798678]
+Server-- 21:05:47.388557 server.go:141: send msg: [Request bradfi3422222tz 50000000 74999999]
+Server-- 21:06:04.487070 server.go:52: recv 3
+Server-- 21:06:04.487130 server.go:88: [Result 242473597196 46160575]
+Server-- 21:06:04.513032 server.go:52: recv 1
+Server-- 21:06:04.513066 server.go:88: [Result 2591284781372 57495418]
+r-- 20:46:16.463406 server.go:52: recv 14
+Server-- 20:58:04.755293 server.go:52: recv 15
+Server-- 20:58:04.757348 server.go:88: [Request bradfi3422222tz 0 99999999]
+Server-- 20:58:04.757379 server.go:95: client 15 join.
+Server-- 20:58:04.757386 server.go:96: tasks len 4.
+Server-- 20:58:04.757393 server.go:141: send msg: [Request bradfi3422222tz 0 24999999]
+Server-- 20:58:04.757422 server.go:141: send msg: [Request bradfi3422222tz 25000000 49999999]
+Server-- 20:58:04.757439 server.go:141: send msg: [Request bradfi3422222tz 50000000 74999999]
+Server-- 20:58:04.757456 server.go:141: send msg: [Request bradfi3422222tz 75000000 99999999]
+Server-- 20:58:07.708920 server.go:52: recv 16
+Server-- 20:58:07.708994 server.go:88: [Request bradfi3422222tz 0 99999999]
+Server-- 20:58:07.709009 server.go:95: client 16 join.
+Server-- 20:58:07.709019 server.go:96: tasks len 4.
+Server-- 20:58:09.076941 server.go:52: recv 17
+Server-- 20:58:09.076982 server.go:88: [Request bradfi3422222tz 0 99999999]
+Server-- 20:58:09.076997 server.go:95: client 17 join.
+Server-- 20:58:09.077007 server.go:96: tasks len 4.
+Server-- 20:58:10.838882 server.go:52: recv 18
+Server-- 20:58:10.838927 server.go:88: [Request bradfi3422222tz 0 999999]
+Server-- 20:58:10.838942 server.go:95: client 18 join.
+Server-- 20:58:10.838952 server.go:96: tasks len 4.
+Server-- 20:58:16.978040 server.go:52: recv 19
+Server-- 20:58:16.978080 server.go:88: [Request bradfi3422222tz 0 99999]
+Server-- 20:58:16.978094 server.go:95: client 19 join.
+Server-- 20:58:16.978104 server.go:96: tasks len 4.
+Server-- 20:58:19.732911 server.go:52: recv 20
+Server-- 20:58:19.732957 server.go:88: [Request bradfi3422222tz 0 99999]
+Server-- 20:58:19.732971 server.go:95: client 20 join.
+Server-- 20:58:19.732981 server.go:96: tasks len 4.
+Server-- 20:58:32.744564 server.go:52: recv 9
+Server-- 20:58:32.744622 server.go:88: [Result 2591284781372 57495418]
+Server-- 20:58:32.744640 server.go:141: send msg: [Request bradfi3422222tz 0 24999999]
+Server-- 20:58:32.839142 server.go:49: Connection lost
+Server-- 20:58:32.839171 server.go:52: recv 18
+Server-- 20:58:32.839181 server.go:67: client 18 quit.
+Server-- 20:58:32.878931 server.go:52: recv 10
+Server-- 20:58:32.878977 server.go:88: [Result 242473597196 46160575]
+Server-- 20:58:32.878991 server.go:141: send msg: [Request bradfi3422222tz 25000000 49999999]
+Server-- 20:58:33.108707 server.go:49: Connection lost
+Server-- 20:58:33.108731 server.go:52: recv 6
+Server-- 20:58:33.108746 server.go:78: miner 6 quit.
+Server-- 20:58:34.758390 server.go:49: Connection lost
+Server-- 20:58:34.758419 server.go:52: recv 15
+Server-- 20:58:34.758430 server.go:67: client 15 quit.
+Server-- 20:58:36.235825 server.go:49: Connection lost
+Server-- 20:58:36.235854 server.go:52: recv 8
+Server-- 20:58:36.235866 server.go:78: miner 8 quit.
+Server-- 20:58:50.362587 server.go:52: recv 9
+Server-- 20:58:50.362638 server.go:88: [Result 7844102671 5830848]
+Server-- 20:58:50.362654 server.go:141: send msg: [Request bradfi3422222tz 50000000 74999999]
+Server-- 20:58:50.500594 server.go:52: recv 10
+Server-- 20:58:50.500651 server.go:88: [Result 242473597196 46160575]
+Server-- 20:58:50.500673 server.go:141: send msg: [Request bradfi3422222tz 75000000 99999999]
+Server-- 20:59:06.758437 server.go:52: recv 9
+Server-- 20:59:06.758502 server.go:88: [Result 2591284781372 57495418]
+Server-- 20:59:06.758526 server.go:141: send msg: [Request bradfi3422222tz 0 24999999]
+Server-- 20:59:06.910475 server.go:52: recv 10
+Server-- 20:59:06.910517 server.go:88: [Result 92916603431 96289472]
+Server-- 20:59:06.910528 server.go:141: send msg: [Result 7844102671 5830848]
+Server-- 20:59:06.910568 server.go:49: Client close
+Server-- 20:59:06.910580 server.go:52: recv 16
+Server-- 20:59:06.910578 server.go:141: send msg: [Request bradfi3422222tz 25000000 49999999]
+Server-- 20:59:22.656097 server.go:52: recv 9
+Server-- 20:59:22.656145 server.go:88: [Result 7844102671 5830848]
+Server-- 20:59:22.656161 server.go:141: send msg: [Request bradfi3422222tz 50000000 74999999]
+Server-- 20:59:22.798304 server.go:52: recv 10
+Server-- 20:59:22.798345 server.go:88: [Result 242473597196 46160575]
+Server-- 20:59:22.798358 server.go:141: send msg: [Request bradfi3422222tz 75000000 99999999]
+Server-- 20:59:38.480094 server.go:52: recv 9
+Server-- 20:59:38.480152 server.go:88: [Result 2591284781372 57495418]
+Server-- 20:59:38.480172 server.go:141: send msg: [Request bradfi3422222tz 0 249999]
+Server-- 20:59:38.616014 server.go:52: recv 10
+Server-- 20:59:38.616055 server.go:88: [Result 92916603431 96289472]
+Server-- 20:59:38.616065 server.go:141: send msg: [Result 7844102671 5830848]
+Server-- 20:59:38.616118 server.go:49: Client close
+Server-- 20:59:38.616130 server.go:52: recv 17
+Server-- 20:59:38.616125 server.go:141: send msg: [Request bradfi3422222tz 250000 499999]
+Server-- 20:59:38.639839 server.go:52: recv 9
+Server-- 20:59:38.639882 server.go:88: [Result 52236628992697 196447]
+Server-- 20:59:38.639900 server.go:141: send msg: [Request bradfi3422222tz 500000 749999]
+Server-- 20:59:38.782367 server.go:52: recv 10
+Server-- 20:59:38.782441 server.go:88: [Result 76042952827705 483831]
+Server-- 20:59:38.782458 server.go:141: send msg: [Request bradfi3422222tz 750000 999999]
+Server-- 20:59:38.806050 server.go:52: recv 9
+Server-- 20:59:38.806092 server.go:88: [Result 126426384688340 625335]
+Server-- 20:59:38.806104 server.go:141: send msg: [Request bradfi3422222tz 0 24999]
+Server-- 20:59:38.822903 server.go:52: recv 9
+Server-- 20:59:38.822938 server.go:88: [Result 159708293954743 24513]
+Server-- 20:59:38.822952 server.go:141: send msg: [Request bradfi3422222tz 25000 49999]
+Server-- 20:59:38.838749 server.go:52: recv 9
+Server-- 20:59:38.838784 server.go:88: [Result 713368995201015 39023]
+Server-- 20:59:38.838796 server.go:141: send msg: [Request bradfi3422222tz 50000 74999]
+Server-- 20:59:38.854861 server.go:52: recv 9
+Server-- 20:59:38.854895 server.go:88: [Result 328973999245657 53246]
+Server-- 20:59:38.854906 server.go:141: send msg: [Request bradfi3422222tz 75000 99999]
+Server-- 20:59:38.872751 server.go:52: recv 9
+Server-- 20:59:38.872795 server.go:88: [Result 632268948523909 76299]
+Server-- 20:59:38.872811 server.go:141: send msg: [Result 159708293954743 24513]
+Server-- 20:59:38.872867 server.go:49: Client close
+Server-- 20:59:38.872875 server.go:141: send msg: [Request bradfi3422222tz 0 24999]
+Server-- 20:59:38.872880 server.go:52: recv 19
+Server-- 20:59:38.890218 server.go:52: recv 9
+Server-- 20:59:38.890257 server.go:88: [Result 159708293954743 24513]
+Server-- 20:59:38.890267 server.go:141: send msg: [Request bradfi3422222tz 25000 49999]
+Server-- 20:59:38.906992 server.go:52: recv 9
+Server-- 20:59:38.907025 server.go:88: [Result 713368995201015 39023]
+Server-- 20:59:38.907037 server.go:141: send msg: [Request bradfi3422222tz 50000 74999]
+Server-- 20:59:38.925769 server.go:52: recv 9
+Server-- 20:59:38.925810 server.go:88: [Result 328973999245657 53246]
+Server-- 20:59:38.925821 server.go:141: send msg: [Request bradfi3422222tz 75000 99999]
+Server-- 20:59:38.942554 server.go:52: recv 9
+Server-- 20:59:38.942591 server.go:88: [Result 632268948523909 76299]
+Server-- 20:59:38.942601 server.go:141: send msg: [Result 159708293954743 24513]
+Server-- 20:59:38.942644 server.go:49: Client close
+Server-- 20:59:38.942653 server.go:52: recv 20
+Server-- 20:59:38.942655 server.go:141: send msg: [Request bradfi3422222tz 75000000 99999999]
+Server-- 20:59:38.950151 server.go:52: recv 10
+Server-- 20:59:38.950195 server.go:88: [Result 56181256548463 798678]
+Server-- 20:59:54.786118 server.go:52: recv 9
+Server-- 20:59:54.786167 server.go:88: [Result 92916603431 96289472]
